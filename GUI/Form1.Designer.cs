@@ -50,7 +50,7 @@ namespace GUI
             this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 25.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblResultado.Location = new System.Drawing.Point(281, 16);
             this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(139, 52);
+            this.lblResultado.Size = new System.Drawing.Size(138, 51);
             this.lblResultado.TabIndex = 1;
             this.lblResultado.Text = "label1";
             // 
@@ -61,7 +61,7 @@ namespace GUI
             this.btnCambio.Name = "btnCambio";
             this.btnCambio.Size = new System.Drawing.Size(666, 55);
             this.btnCambio.TabIndex = 2;
-            this.btnCambio.Text = "VER";
+            this.btnCambio.Text = "VER todo";
             this.btnCambio.UseVisualStyleBackColor = true;
             this.btnCambio.Click += new System.EventHandler(this.btnCambio_Click);
             // 
