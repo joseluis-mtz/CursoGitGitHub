@@ -45,7 +45,7 @@ namespace GUI
 
             }
 
-            if (cantidad == 20)
+            if (cantidad == 3)
             {
                 //if (parte[0].Equals('0'))
                 //{
